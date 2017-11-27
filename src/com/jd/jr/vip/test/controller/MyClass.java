@@ -5,4 +5,5 @@ package com.jd.jr.vip.test.controller;
  */
 public class MyClass {
 
+    private String str = "";
 }
